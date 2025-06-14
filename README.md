@@ -1,4 +1,5 @@
 FinBot - AI-Powered Financial Assistant 💸
+
 FinBot is a smart AI chatbot designed to help users explore financial strategies, understand market trends, and get investment insights using natural language queries. Built using Azure OpenAI, FinBot ensures interactive and intelligent financial guidance without requiring direct access to sensitive user data.
 
  1. How Was FinBot Built?
