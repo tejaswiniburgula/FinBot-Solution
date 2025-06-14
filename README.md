@@ -10,7 +10,7 @@ Structured for Financial Insights → Helps users explore SIPs, trading strategi
 
 Optimized for Conversational Guidance → FinBot understands queries like "I want to start SIPs, what should I know?" or "How do I build a low-risk trading portfolio?".
 
- 3. How to Import & Use FinBot?
+ 2. How to Import & Use FinBot?
     
 Step 1: Import FinBot into Copilot Studio
 1️⃣ Go to Copilot Studio → Open the Solutions tab. 
